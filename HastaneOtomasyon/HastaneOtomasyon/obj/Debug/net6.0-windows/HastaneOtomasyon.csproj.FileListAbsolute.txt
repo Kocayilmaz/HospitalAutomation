@@ -1,0 +1,220 @@
+C:\Users\abdul\Desktop\New Project\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\net6.0-windows\HastaneOtomasyon.exe
+C:\Users\abdul\Desktop\New Project\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\net6.0-windows\HastaneOtomasyon.deps.json
+C:\Users\abdul\Desktop\New Project\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\net6.0-windows\HastaneOtomasyon.runtimeconfig.json
+C:\Users\abdul\Desktop\New Project\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\net6.0-windows\HastaneOtomasyon.dll
+C:\Users\abdul\Desktop\New Project\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\net6.0-windows\HastaneOtomasyon.pdb
+C:\Users\abdul\Desktop\New Project\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\net6.0-windows\HastaneOtomasyon.csproj.AssemblyReference.cache
+C:\Users\abdul\Desktop\New Project\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\net6.0-windows\HastaneOtomasyon.GirisForm.resources
+C:\Users\abdul\Desktop\New Project\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\net6.0-windows\HastaneOtomasyon.csproj.GenerateResource.cache
+C:\Users\abdul\Desktop\New Project\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\net6.0-windows\HastaneOtomasyon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abdul\Desktop\New Project\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\net6.0-windows\HastaneOtomasyon.AssemblyInfoInputs.cache
+C:\Users\abdul\Desktop\New Project\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\net6.0-windows\HastaneOtomasyon.AssemblyInfo.cs
+C:\Users\abdul\Desktop\New Project\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\net6.0-windows\HastaneOtomasyon.csproj.CoreCompileInputs.cache
+C:\Users\abdul\Desktop\New Project\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\net6.0-windows\HastaneOtomasyon.dll
+C:\Users\abdul\Desktop\New Project\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\net6.0-windows\refint\HastaneOtomasyon.dll
+C:\Users\abdul\Desktop\New Project\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\net6.0-windows\HastaneOtomasyon.pdb
+C:\Users\abdul\Desktop\New Project\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\net6.0-windows\HastaneOtomasyon.genruntimeconfig.cache
+C:\Users\abdul\Desktop\New Project\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\net6.0-windows\ref\HastaneOtomasyon.dll
+C:\Users\abdul\Desktop\New Project\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\net6.0-windows\tr-TR\HastaneOtomasyon.resources.dll
+C:\Users\abdul\Desktop\New Project\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\net6.0-windows\HastaneOtomasyon.GirisForm.tr-TR.resources
+C:\Users\abdul\Desktop\New Project\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\net6.0-windows\tr-TR\HastaneOtomasyon.resources.dll
+C:\Users\abdul\Desktop\New Project\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\abdul\Desktop\New Project\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\abdul\Desktop\New Project\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\abdul\Desktop\New Project\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\abdul\Desktop\New Project\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\abdul\Desktop\New Project\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\abdul\Desktop\New Project\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\net6.0-windows\HastaneOtomasyon.csproj.CopyComplete
+C:\Users\abdul\Desktop\New Project\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\net6.0-windows\HastaneOtomasyon.AdminForm.resources
+C:\Users\abdul\Desktop\New Project\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\net6.0-windows\HastaneOtomasyon.Properties.Resources.resources
+C:\Users\abdul\Desktop\New Project\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\net6.0-windows\HastaneOtomasyon.Forms.KullaniciEkleForm.resources
+C:\Users\abdul\Desktop\New Project\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\net6.0-windows\HastaneOtomasyon.Forms.KlinikEkleForm.resources
+C:\Users\abdul\Desktop\New Project\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\net6.0-windows\HastaneOtomasyon.Forms.HastaEkleForm.resources
+C:\Users\abdul\Desktop\New Project\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\net6.0-windows\HastaneOtomasyon.Forms.DoktorEkleForm.resources
+C:\Users\abdul\Desktop\New Project\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\net6.0-windows\HastaneOtomasyon.Forms.LaboratuvarEkleForm.resources
+C:\Users\abdul\Desktop\New Project\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\net6.0-windows\HastaneOtomasyon.Forms.RandevuEkleForm.resources
+C:\Users\abdul\Desktop\New Project\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\net6.0-windows\HastaneOtomasyon.Forms.ReceteYazForm.resources
+C:\Users\abdul\Desktop\New Project\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\net6.0-windows\HastaneOtomasyon.Forms.TaniEkleForm.resources
+C:\Users\abdul\Desktop\New Project\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\net6.0-windows\HastaneOtomasyon.CoreForms.DoktorForm.resources
+C:\Users\abdul\Desktop\New Project\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\net6.0-windows\HastaneOtomasyon.Forms.YedeklemeIslemleriForm.resources
+C:\Users\abdul\Desktop\New Project\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\net6.0-windows\HastaneOtomasyon.Forms.TestYazForm.resources
+C:\Users\abdul\Desktop\New Project\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\net6.0-windows\HastaneOtomasyon.Forms.TestSonucForm.resources
+C:\Users\enesk\OneDrive\Masaüstü\HastaneOtomasyonTaha03\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\net6.0-windows\HastaneOtomasyon.exe
+C:\Users\enesk\OneDrive\Masaüstü\HastaneOtomasyonTaha03\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\net6.0-windows\HastaneOtomasyon.deps.json
+C:\Users\enesk\OneDrive\Masaüstü\HastaneOtomasyonTaha03\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\net6.0-windows\HastaneOtomasyon.runtimeconfig.json
+C:\Users\enesk\OneDrive\Masaüstü\HastaneOtomasyonTaha03\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\net6.0-windows\HastaneOtomasyon.dll
+C:\Users\enesk\OneDrive\Masaüstü\HastaneOtomasyonTaha03\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\net6.0-windows\HastaneOtomasyon.pdb
+C:\Users\enesk\OneDrive\Masaüstü\HastaneOtomasyonTaha03\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\net6.0-windows\tr-TR\HastaneOtomasyon.resources.dll
+C:\Users\enesk\OneDrive\Masaüstü\HastaneOtomasyonTaha03\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\enesk\OneDrive\Masaüstü\HastaneOtomasyonTaha03\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\enesk\OneDrive\Masaüstü\HastaneOtomasyonTaha03\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\enesk\OneDrive\Masaüstü\HastaneOtomasyonTaha03\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\enesk\OneDrive\Masaüstü\HastaneOtomasyonTaha03\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\enesk\OneDrive\Masaüstü\HastaneOtomasyonTaha03\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\enesk\OneDrive\Masaüstü\HastaneOtomasyonTaha03\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\net6.0-windows\HastaneOtomasyon.csproj.AssemblyReference.cache
+C:\Users\enesk\OneDrive\Masaüstü\HastaneOtomasyonTaha03\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\net6.0-windows\HastaneOtomasyon.AdminForm.resources
+C:\Users\enesk\OneDrive\Masaüstü\HastaneOtomasyonTaha03\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\net6.0-windows\HastaneOtomasyon.CoreForms.DoktorForm.resources
+C:\Users\enesk\OneDrive\Masaüstü\HastaneOtomasyonTaha03\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\net6.0-windows\HastaneOtomasyon.GirisForm.resources
+C:\Users\enesk\OneDrive\Masaüstü\HastaneOtomasyonTaha03\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\net6.0-windows\HastaneOtomasyon.Forms.DisaridanDoktorEklemeForm.resources
+C:\Users\enesk\OneDrive\Masaüstü\HastaneOtomasyonTaha03\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\net6.0-windows\HastaneOtomasyon.Forms.DoktorEkleForm.resources
+C:\Users\enesk\OneDrive\Masaüstü\HastaneOtomasyonTaha03\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\net6.0-windows\HastaneOtomasyon.Forms.HastaEkleForm.resources
+C:\Users\enesk\OneDrive\Masaüstü\HastaneOtomasyonTaha03\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\net6.0-windows\HastaneOtomasyon.Forms.KlinikEkleForm.resources
+C:\Users\enesk\OneDrive\Masaüstü\HastaneOtomasyonTaha03\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\net6.0-windows\HastaneOtomasyon.Forms.KullaniciEkleForm.resources
+C:\Users\enesk\OneDrive\Masaüstü\HastaneOtomasyonTaha03\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\net6.0-windows\HastaneOtomasyon.Forms.LaboratuvarEkleForm.resources
+C:\Users\enesk\OneDrive\Masaüstü\HastaneOtomasyonTaha03\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\net6.0-windows\HastaneOtomasyon.Forms.RandevuEkleForm.resources
+C:\Users\enesk\OneDrive\Masaüstü\HastaneOtomasyonTaha03\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\net6.0-windows\HastaneOtomasyon.Forms.ReceteYazForm.resources
+C:\Users\enesk\OneDrive\Masaüstü\HastaneOtomasyonTaha03\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\net6.0-windows\HastaneOtomasyon.Forms.TaniEkleForm.resources
+C:\Users\enesk\OneDrive\Masaüstü\HastaneOtomasyonTaha03\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\net6.0-windows\HastaneOtomasyon.Forms.TestSonucForm.resources
+C:\Users\enesk\OneDrive\Masaüstü\HastaneOtomasyonTaha03\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\net6.0-windows\HastaneOtomasyon.Forms.TestYazForm.resources
+C:\Users\enesk\OneDrive\Masaüstü\HastaneOtomasyonTaha03\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\net6.0-windows\HastaneOtomasyon.Forms.YedeklemeIslemleriForm.resources
+C:\Users\enesk\OneDrive\Masaüstü\HastaneOtomasyonTaha03\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\net6.0-windows\HastaneOtomasyon.Properties.Resources.resources
+C:\Users\enesk\OneDrive\Masaüstü\HastaneOtomasyonTaha03\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\net6.0-windows\HastaneOtomasyon.GirisForm.tr-TR.resources
+C:\Users\enesk\OneDrive\Masaüstü\HastaneOtomasyonTaha03\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\net6.0-windows\HastaneOtomasyon.csproj.GenerateResource.cache
+C:\Users\enesk\OneDrive\Masaüstü\HastaneOtomasyonTaha03\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\net6.0-windows\HastaneOtomasyon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\enesk\OneDrive\Masaüstü\HastaneOtomasyonTaha03\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\net6.0-windows\HastaneOtomasyon.AssemblyInfoInputs.cache
+C:\Users\enesk\OneDrive\Masaüstü\HastaneOtomasyonTaha03\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\net6.0-windows\HastaneOtomasyon.AssemblyInfo.cs
+C:\Users\enesk\OneDrive\Masaüstü\HastaneOtomasyonTaha03\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\net6.0-windows\HastaneOtomasyon.csproj.CoreCompileInputs.cache
+C:\Users\enesk\OneDrive\Masaüstü\HastaneOtomasyonTaha03\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\net6.0-windows\tr-TR\HastaneOtomasyon.resources.dll
+C:\Users\enesk\OneDrive\Masaüstü\HastaneOtomasyonTaha03\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\net6.0-windows\HastaneOtomasyon.csproj.CopyComplete
+C:\Users\enesk\OneDrive\Masaüstü\HastaneOtomasyonTaha03\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\net6.0-windows\HastaneOtomasyon.dll
+C:\Users\enesk\OneDrive\Masaüstü\HastaneOtomasyonTaha03\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\net6.0-windows\refint\HastaneOtomasyon.dll
+C:\Users\enesk\OneDrive\Masaüstü\HastaneOtomasyonTaha03\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\net6.0-windows\HastaneOtomasyon.pdb
+C:\Users\enesk\OneDrive\Masaüstü\HastaneOtomasyonTaha03\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\net6.0-windows\HastaneOtomasyon.genruntimeconfig.cache
+C:\Users\enesk\OneDrive\Masaüstü\HastaneOtomasyonTaha03\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\net6.0-windows\ref\HastaneOtomasyon.dll
+C:\Users\enesk\OneDrive\Masaüstü\HastaneOtomasyonTaha03\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\net6.0-windows\HastaneOtomasyon.CoreForms.VeznedarForm.resources
+C:\Users\enesk\OneDrive\Masaüstü\HastaneOtomasyonTaha03\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\net6.0-windows\HastaneOtomasyon.CoreForms.LaborantForm.resources
+C:\Users\zeyne\OneDrive\Masaüstü\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\net6.0-windows\HastaneOtomasyon.exe
+C:\Users\zeyne\OneDrive\Masaüstü\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\net6.0-windows\HastaneOtomasyon.deps.json
+C:\Users\zeyne\OneDrive\Masaüstü\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\net6.0-windows\HastaneOtomasyon.runtimeconfig.json
+C:\Users\zeyne\OneDrive\Masaüstü\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\net6.0-windows\HastaneOtomasyon.dll
+C:\Users\zeyne\OneDrive\Masaüstü\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\net6.0-windows\HastaneOtomasyon.pdb
+C:\Users\zeyne\OneDrive\Masaüstü\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\net6.0-windows\tr-TR\HastaneOtomasyon.resources.dll
+C:\Users\zeyne\OneDrive\Masaüstü\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\zeyne\OneDrive\Masaüstü\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\zeyne\OneDrive\Masaüstü\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\zeyne\OneDrive\Masaüstü\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\zeyne\OneDrive\Masaüstü\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\zeyne\OneDrive\Masaüstü\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\zeyne\OneDrive\Masaüstü\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\net6.0-windows\HastaneOtomasyon.csproj.AssemblyReference.cache
+C:\Users\zeyne\OneDrive\Masaüstü\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\net6.0-windows\HastaneOtomasyon.AdminForm.resources
+C:\Users\zeyne\OneDrive\Masaüstü\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\net6.0-windows\HastaneOtomasyon.CoreForms.DoktorForm.resources
+C:\Users\zeyne\OneDrive\Masaüstü\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\net6.0-windows\HastaneOtomasyon.GirisForm.resources
+C:\Users\zeyne\OneDrive\Masaüstü\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\net6.0-windows\HastaneOtomasyon.CoreForms.LaborantForm.resources
+C:\Users\zeyne\OneDrive\Masaüstü\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\net6.0-windows\HastaneOtomasyon.CoreForms.VeznedarForm.resources
+C:\Users\zeyne\OneDrive\Masaüstü\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\net6.0-windows\HastaneOtomasyon.Forms.DisaridanDoktorEklemeForm.resources
+C:\Users\zeyne\OneDrive\Masaüstü\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\net6.0-windows\HastaneOtomasyon.Forms.DoktorEkleForm.resources
+C:\Users\zeyne\OneDrive\Masaüstü\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\net6.0-windows\HastaneOtomasyon.Forms.HastaEkleForm.resources
+C:\Users\zeyne\OneDrive\Masaüstü\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\net6.0-windows\HastaneOtomasyon.Forms.KlinikEkleForm.resources
+C:\Users\zeyne\OneDrive\Masaüstü\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\net6.0-windows\HastaneOtomasyon.Forms.KullaniciEkleForm.resources
+C:\Users\zeyne\OneDrive\Masaüstü\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\net6.0-windows\HastaneOtomasyon.Forms.LaboratuvarEkleForm.resources
+C:\Users\zeyne\OneDrive\Masaüstü\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\net6.0-windows\HastaneOtomasyon.Forms.RandevuEkleForm.resources
+C:\Users\zeyne\OneDrive\Masaüstü\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\net6.0-windows\HastaneOtomasyon.Forms.ReceteYazForm.resources
+C:\Users\zeyne\OneDrive\Masaüstü\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\net6.0-windows\HastaneOtomasyon.Forms.TaniEkleForm.resources
+C:\Users\zeyne\OneDrive\Masaüstü\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\net6.0-windows\HastaneOtomasyon.Forms.TestSonucForm.resources
+C:\Users\zeyne\OneDrive\Masaüstü\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\net6.0-windows\HastaneOtomasyon.Forms.TestYazForm.resources
+C:\Users\zeyne\OneDrive\Masaüstü\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\net6.0-windows\HastaneOtomasyon.Forms.YedeklemeIslemleriForm.resources
+C:\Users\zeyne\OneDrive\Masaüstü\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\net6.0-windows\HastaneOtomasyon.Properties.Resources.resources
+C:\Users\zeyne\OneDrive\Masaüstü\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\net6.0-windows\HastaneOtomasyon.GirisForm.tr-TR.resources
+C:\Users\zeyne\OneDrive\Masaüstü\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\net6.0-windows\HastaneOtomasyon.csproj.GenerateResource.cache
+C:\Users\zeyne\OneDrive\Masaüstü\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\net6.0-windows\HastaneOtomasyon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zeyne\OneDrive\Masaüstü\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\net6.0-windows\HastaneOtomasyon.AssemblyInfoInputs.cache
+C:\Users\zeyne\OneDrive\Masaüstü\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\net6.0-windows\HastaneOtomasyon.AssemblyInfo.cs
+C:\Users\zeyne\OneDrive\Masaüstü\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\net6.0-windows\HastaneOtomasyon.csproj.CoreCompileInputs.cache
+C:\Users\zeyne\OneDrive\Masaüstü\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\net6.0-windows\tr-TR\HastaneOtomasyon.resources.dll
+C:\Users\zeyne\OneDrive\Masaüstü\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\net6.0-windows\HastaneOtomasyon.csproj.CopyComplete
+C:\Users\zeyne\OneDrive\Masaüstü\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\net6.0-windows\HastaneOtomasyon.dll
+C:\Users\zeyne\OneDrive\Masaüstü\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\net6.0-windows\refint\HastaneOtomasyon.dll
+C:\Users\zeyne\OneDrive\Masaüstü\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\net6.0-windows\HastaneOtomasyon.pdb
+C:\Users\zeyne\OneDrive\Masaüstü\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\net6.0-windows\HastaneOtomasyon.genruntimeconfig.cache
+C:\Users\zeyne\OneDrive\Masaüstü\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\net6.0-windows\ref\HastaneOtomasyon.dll
+C:\Users\zeyne\OneDrive\Masaüstü\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\net6.0-windows\Microsoft.Office.Interop.Word.dll
+C:\Users\zeyne\OneDrive\Masaüstü\Hastane\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\net6.0-windows\HastaneOtomasyon.exe
+C:\Users\zeyne\OneDrive\Masaüstü\Hastane\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\net6.0-windows\HastaneOtomasyon.deps.json
+C:\Users\zeyne\OneDrive\Masaüstü\Hastane\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\net6.0-windows\HastaneOtomasyon.runtimeconfig.json
+C:\Users\zeyne\OneDrive\Masaüstü\Hastane\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\net6.0-windows\HastaneOtomasyon.dll
+C:\Users\zeyne\OneDrive\Masaüstü\Hastane\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\net6.0-windows\HastaneOtomasyon.pdb
+C:\Users\zeyne\OneDrive\Masaüstü\Hastane\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\net6.0-windows\tr-TR\HastaneOtomasyon.resources.dll
+C:\Users\zeyne\OneDrive\Masaüstü\Hastane\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\net6.0-windows\Microsoft.Office.Interop.Word.dll
+C:\Users\zeyne\OneDrive\Masaüstü\Hastane\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\zeyne\OneDrive\Masaüstü\Hastane\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\zeyne\OneDrive\Masaüstü\Hastane\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\zeyne\OneDrive\Masaüstü\Hastane\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\zeyne\OneDrive\Masaüstü\Hastane\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\zeyne\OneDrive\Masaüstü\Hastane\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\zeyne\OneDrive\Masaüstü\Hastane\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\net6.0-windows\HastaneOtomasyon.csproj.AssemblyReference.cache
+C:\Users\zeyne\OneDrive\Masaüstü\Hastane\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\net6.0-windows\HastaneOtomasyon.AdminForm.resources
+C:\Users\zeyne\OneDrive\Masaüstü\Hastane\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\net6.0-windows\HastaneOtomasyon.CoreForms.DoktorForm.resources
+C:\Users\zeyne\OneDrive\Masaüstü\Hastane\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\net6.0-windows\HastaneOtomasyon.GirisForm.resources
+C:\Users\zeyne\OneDrive\Masaüstü\Hastane\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\net6.0-windows\HastaneOtomasyon.CoreForms.LaborantForm.resources
+C:\Users\zeyne\OneDrive\Masaüstü\Hastane\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\net6.0-windows\HastaneOtomasyon.CoreForms.VeznedarForm.resources
+C:\Users\zeyne\OneDrive\Masaüstü\Hastane\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\net6.0-windows\HastaneOtomasyon.Forms.DisaridanDoktorEklemeForm.resources
+C:\Users\zeyne\OneDrive\Masaüstü\Hastane\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\net6.0-windows\HastaneOtomasyon.Forms.DoktorEkleForm.resources
+C:\Users\zeyne\OneDrive\Masaüstü\Hastane\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\net6.0-windows\HastaneOtomasyon.Forms.HastaEkleForm.resources
+C:\Users\zeyne\OneDrive\Masaüstü\Hastane\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\net6.0-windows\HastaneOtomasyon.Forms.KlinikEkleForm.resources
+C:\Users\zeyne\OneDrive\Masaüstü\Hastane\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\net6.0-windows\HastaneOtomasyon.Forms.KullaniciEkleForm.resources
+C:\Users\zeyne\OneDrive\Masaüstü\Hastane\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\net6.0-windows\HastaneOtomasyon.Forms.LaboratuvarEkleForm.resources
+C:\Users\zeyne\OneDrive\Masaüstü\Hastane\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\net6.0-windows\HastaneOtomasyon.Forms.RandevuEkleForm.resources
+C:\Users\zeyne\OneDrive\Masaüstü\Hastane\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\net6.0-windows\HastaneOtomasyon.Forms.ReceteYazForm.resources
+C:\Users\zeyne\OneDrive\Masaüstü\Hastane\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\net6.0-windows\HastaneOtomasyon.Forms.TaniEkleForm.resources
+C:\Users\zeyne\OneDrive\Masaüstü\Hastane\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\net6.0-windows\HastaneOtomasyon.Forms.TestSonucForm.resources
+C:\Users\zeyne\OneDrive\Masaüstü\Hastane\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\net6.0-windows\HastaneOtomasyon.Forms.TestYazForm.resources
+C:\Users\zeyne\OneDrive\Masaüstü\Hastane\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\net6.0-windows\HastaneOtomasyon.Forms.YedeklemeIslemleriForm.resources
+C:\Users\zeyne\OneDrive\Masaüstü\Hastane\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\net6.0-windows\HastaneOtomasyon.Properties.Resources.resources
+C:\Users\zeyne\OneDrive\Masaüstü\Hastane\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\net6.0-windows\HastaneOtomasyon.GirisForm.tr-TR.resources
+C:\Users\zeyne\OneDrive\Masaüstü\Hastane\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\net6.0-windows\HastaneOtomasyon.csproj.GenerateResource.cache
+C:\Users\zeyne\OneDrive\Masaüstü\Hastane\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\net6.0-windows\HastaneOtomasyon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zeyne\OneDrive\Masaüstü\Hastane\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\net6.0-windows\HastaneOtomasyon.AssemblyInfoInputs.cache
+C:\Users\zeyne\OneDrive\Masaüstü\Hastane\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\net6.0-windows\HastaneOtomasyon.AssemblyInfo.cs
+C:\Users\zeyne\OneDrive\Masaüstü\Hastane\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\net6.0-windows\HastaneOtomasyon.csproj.CoreCompileInputs.cache
+C:\Users\zeyne\OneDrive\Masaüstü\Hastane\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\net6.0-windows\tr-TR\HastaneOtomasyon.resources.dll
+C:\Users\zeyne\OneDrive\Masaüstü\Hastane\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\net6.0-windows\HastaneOtomasyon.csproj.CopyComplete
+C:\Users\zeyne\OneDrive\Masaüstü\Hastane\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\net6.0-windows\HastaneOtomasyon.dll
+C:\Users\zeyne\OneDrive\Masaüstü\Hastane\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\net6.0-windows\refint\HastaneOtomasyon.dll
+C:\Users\zeyne\OneDrive\Masaüstü\Hastane\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\net6.0-windows\HastaneOtomasyon.pdb
+C:\Users\zeyne\OneDrive\Masaüstü\Hastane\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\net6.0-windows\HastaneOtomasyon.genruntimeconfig.cache
+C:\Users\zeyne\OneDrive\Masaüstü\Hastane\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\net6.0-windows\ref\HastaneOtomasyon.dll
+C:\Users\abdul\Desktop\Hastane\Hastane\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\net6.0-windows\HastaneOtomasyon.exe
+C:\Users\abdul\Desktop\Hastane\Hastane\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\net6.0-windows\HastaneOtomasyon.deps.json
+C:\Users\abdul\Desktop\Hastane\Hastane\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\net6.0-windows\HastaneOtomasyon.runtimeconfig.json
+C:\Users\abdul\Desktop\Hastane\Hastane\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\net6.0-windows\HastaneOtomasyon.dll
+C:\Users\abdul\Desktop\Hastane\Hastane\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\net6.0-windows\HastaneOtomasyon.pdb
+C:\Users\abdul\Desktop\Hastane\Hastane\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\net6.0-windows\tr-TR\HastaneOtomasyon.resources.dll
+C:\Users\abdul\Desktop\Hastane\Hastane\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\net6.0-windows\Microsoft.Office.Interop.Word.dll
+C:\Users\abdul\Desktop\Hastane\Hastane\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\abdul\Desktop\Hastane\Hastane\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\abdul\Desktop\Hastane\Hastane\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\abdul\Desktop\Hastane\Hastane\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\abdul\Desktop\Hastane\Hastane\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\abdul\Desktop\Hastane\Hastane\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\abdul\Desktop\Hastane\Hastane\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\net6.0-windows\HastaneOtomasyon.csproj.AssemblyReference.cache
+C:\Users\abdul\Desktop\Hastane\Hastane\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\net6.0-windows\HastaneOtomasyon.AdminForm.resources
+C:\Users\abdul\Desktop\Hastane\Hastane\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\net6.0-windows\HastaneOtomasyon.CoreForms.DoktorForm.resources
+C:\Users\abdul\Desktop\Hastane\Hastane\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\net6.0-windows\HastaneOtomasyon.GirisForm.resources
+C:\Users\abdul\Desktop\Hastane\Hastane\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\net6.0-windows\HastaneOtomasyon.CoreForms.LaborantForm.resources
+C:\Users\abdul\Desktop\Hastane\Hastane\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\net6.0-windows\HastaneOtomasyon.CoreForms.VeznedarForm.resources
+C:\Users\abdul\Desktop\Hastane\Hastane\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\net6.0-windows\HastaneOtomasyon.Forms.DisaridanDoktorEklemeForm.resources
+C:\Users\abdul\Desktop\Hastane\Hastane\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\net6.0-windows\HastaneOtomasyon.Forms.DoktorEkleForm.resources
+C:\Users\abdul\Desktop\Hastane\Hastane\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\net6.0-windows\HastaneOtomasyon.Forms.HastaEkleForm.resources
+C:\Users\abdul\Desktop\Hastane\Hastane\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\net6.0-windows\HastaneOtomasyon.Forms.KlinikEkleForm.resources
+C:\Users\abdul\Desktop\Hastane\Hastane\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\net6.0-windows\HastaneOtomasyon.Forms.KullaniciEkleForm.resources
+C:\Users\abdul\Desktop\Hastane\Hastane\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\net6.0-windows\HastaneOtomasyon.Forms.LaboratuvarEkleForm.resources
+C:\Users\abdul\Desktop\Hastane\Hastane\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\net6.0-windows\HastaneOtomasyon.Forms.RandevuEkleForm.resources
+C:\Users\abdul\Desktop\Hastane\Hastane\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\net6.0-windows\HastaneOtomasyon.Forms.ReceteYazForm.resources
+C:\Users\abdul\Desktop\Hastane\Hastane\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\net6.0-windows\HastaneOtomasyon.Forms.TaniEkleForm.resources
+C:\Users\abdul\Desktop\Hastane\Hastane\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\net6.0-windows\HastaneOtomasyon.Forms.TestSonucForm.resources
+C:\Users\abdul\Desktop\Hastane\Hastane\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\net6.0-windows\HastaneOtomasyon.Forms.TestYazForm.resources
+C:\Users\abdul\Desktop\Hastane\Hastane\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\net6.0-windows\HastaneOtomasyon.Forms.YedeklemeIslemleriForm.resources
+C:\Users\abdul\Desktop\Hastane\Hastane\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\net6.0-windows\HastaneOtomasyon.Properties.Resources.resources
+C:\Users\abdul\Desktop\Hastane\Hastane\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\net6.0-windows\HastaneOtomasyon.GirisForm.tr-TR.resources
+C:\Users\abdul\Desktop\Hastane\Hastane\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\net6.0-windows\HastaneOtomasyon.csproj.GenerateResource.cache
+C:\Users\abdul\Desktop\Hastane\Hastane\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\net6.0-windows\HastaneOtomasyon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abdul\Desktop\Hastane\Hastane\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\net6.0-windows\HastaneOtomasyon.AssemblyInfoInputs.cache
+C:\Users\abdul\Desktop\Hastane\Hastane\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\net6.0-windows\HastaneOtomasyon.AssemblyInfo.cs
+C:\Users\abdul\Desktop\Hastane\Hastane\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\net6.0-windows\HastaneOtomasyon.csproj.CoreCompileInputs.cache
+C:\Users\abdul\Desktop\Hastane\Hastane\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\net6.0-windows\tr-TR\HastaneOtomasyon.resources.dll
+C:\Users\abdul\Desktop\Hastane\Hastane\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\net6.0-windows\HastaneOtomasyon.csproj.CopyComplete
+C:\Users\abdul\Desktop\Hastane\Hastane\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\net6.0-windows\HastaneOtomasyon.dll
+C:\Users\abdul\Desktop\Hastane\Hastane\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\net6.0-windows\refint\HastaneOtomasyon.dll
+C:\Users\abdul\Desktop\Hastane\Hastane\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\net6.0-windows\HastaneOtomasyon.pdb
+C:\Users\abdul\Desktop\Hastane\Hastane\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\net6.0-windows\HastaneOtomasyon.genruntimeconfig.cache
+C:\Users\abdul\Desktop\Hastane\Hastane\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\net6.0-windows\ref\HastaneOtomasyon.dll
